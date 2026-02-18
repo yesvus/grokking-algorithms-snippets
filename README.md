@@ -1,6 +1,6 @@
 # Grokking Algorithms - Concise Summary + Snippets
 
-A compact, chapter-aligned reference of **Grokking Algorithms** with minimal, reusable Python snippets.
+A compact, chapter-aligned reference of **Grokking Algorithms** with minimal, reusable **Python and C++** snippets.
 
 ## Book Summary (Concise)
 
@@ -76,6 +76,28 @@ snippets/
       longest_common_subsequence.py
     10_advanced/
       knn_basic.py
+  cpp/
+    01_search/
+      binary_search.cpp
+    02_sorting/
+      selection_sort.cpp
+    03_recursion/
+      sum_recursive.cpp
+      count_recursive.cpp
+    04_divide_and_conquer/
+      quicksort.cpp
+    05_hash_tables/
+      frequency_counter.cpp
+    06_graphs/
+      bfs_shortest_path.cpp
+    07_shortest_path/
+      dijkstra.cpp
+    08_greedy/
+      set_cover_greedy.cpp
+    09_dynamic_programming/
+      longest_common_subsequence.cpp
+    10_advanced/
+      knn_basic.cpp
 ```
 
 ## Learning Roadmap
